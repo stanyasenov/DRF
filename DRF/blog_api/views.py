@@ -31,4 +31,4 @@ class PostDelete(generics.DestroyAPIView):
     queryset = Post.objects.all()
     serializer_class = PostSerializer
 
-name = 'testteasdasdasdst'
+name = 'test123'
